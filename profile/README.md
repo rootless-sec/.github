@@ -1,6 +1,14 @@
-# Rootless Security
+﻿<p align="center">
+  <a href="https://github.com/rootless-sec">
+    <img src="https://raw.githubusercontent.com/rootless-sec/.github/main/assets/avatar.png" alt="Rootless Security" width="120" height="120" />
+  </a>
+</p>
 
-**Systems identity research, wire-level protocol dissection, and unprivileged red team automation.**
+<h1 align="center">Rootless Security</h1>
+
+<p align="center">
+  <b>Systems identity research, wire-level protocol dissection, and unprivileged red team automation.</b>
+</p>
 
 ---
 
